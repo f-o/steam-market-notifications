@@ -1,0 +1,4 @@
+venv
+images/*
+config.py
+test.png
